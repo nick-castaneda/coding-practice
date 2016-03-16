@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "reactPractice.app"
-               BlueprintName = "reactPractice"
-               ReferencedContainer = "container:reactPractice.xcodeproj">
+               BuildableName = "PropertyFinder.app"
+               BlueprintName = "PropertyFinder"
+               ReferencedContainer = "container:PropertyFinder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "reactPracticeTests.xctest"
-               BlueprintName = "reactPracticeTests"
-               ReferencedContainer = "container:reactPractice.xcodeproj">
+               BuildableName = "PropertyFinderTests.xctest"
+               BlueprintName = "PropertyFinderTests"
+               ReferencedContainer = "container:PropertyFinder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "reactPracticeTests.xctest"
-               BlueprintName = "reactPracticeTests"
-               ReferencedContainer = "container:reactPractice.xcodeproj">
+               BuildableName = "PropertyFinderTests.xctest"
+               BlueprintName = "PropertyFinderTests"
+               ReferencedContainer = "container:PropertyFinder.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactPractice.app"
-            BlueprintName = "reactPractice"
-            ReferencedContainer = "container:reactPractice.xcodeproj">
+            BuildableName = "PropertyFinder.app"
+            BlueprintName = "PropertyFinder"
+            ReferencedContainer = "container:PropertyFinder.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactPractice.app"
-            BlueprintName = "reactPractice"
-            ReferencedContainer = "container:reactPractice.xcodeproj">
+            BuildableName = "PropertyFinder.app"
+            BlueprintName = "PropertyFinder"
+            ReferencedContainer = "container:PropertyFinder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactPractice.app"
-            BlueprintName = "reactPractice"
-            ReferencedContainer = "container:reactPractice.xcodeproj">
+            BuildableName = "PropertyFinder.app"
+            BlueprintName = "PropertyFinder"
+            ReferencedContainer = "container:PropertyFinder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

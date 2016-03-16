@@ -11,7 +11,7 @@ import React, {
   View
 } from 'react-native';
 
-class reactPractice extends Component {
+class PropertyFinder extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -48,4 +48,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('reactPractice', () => reactPractice);
+AppRegistry.registerComponent('PropertyFinder', () => PropertyFinder);
